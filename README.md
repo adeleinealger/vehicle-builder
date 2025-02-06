@@ -9,11 +9,16 @@
   ## Table of Contents
 
   - [Usage](#usage)
+  - [Help](#help)
   - [License](#license)
 
   ## Usage
 
   Vehicle builder can be invoked from a command line using npm start
+
+  ## Help
+
+  A video walkthrough can be found [here.](https://drive.google.com/file/d/1uLjiNk-NyuNLzbdjKlOcGzIaeJYWkAbh/view?usp=sharing)
 
   ## License
 
